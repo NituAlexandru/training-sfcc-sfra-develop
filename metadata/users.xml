@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="nitzu_alexandru@yahoo.com" enabled-flag="true">
+        <credentials>
+            <external-id>2019d0ec-3224-4be1-aae5-7c84cc65309f</external-id>
+        </credentials>
+        <profile>
+            <first-name>Alexandru</first-name>
+            <last-name>Nitu</last-name>
+            <email>nitzu_alexandru@yahoo.com</email>
+            <preferred-data-locale>en</preferred-data-locale>
+        </profile>
+    </user>
+
+</users>
